@@ -1,5 +1,5 @@
 # igmvb
-anti kang premm
+anti kang premm 
 
 $ pkg update && pkg upgrade
 $ pkg install git
