@@ -19,4 +19,12 @@ $ cd igmvb
 $ ls
 
 $ python mvbig.py
-# enjoy 
+
+# Cara Update sc
+
+$ cd igmvb
+
+$ git pull
+
+
+# Enjoyyyy
