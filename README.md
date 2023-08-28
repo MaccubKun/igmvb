@@ -12,7 +12,7 @@ $ pip install requests
 
 $ pip install futures
 
-$ git clone https://github.com/maccubgans/igmvb
+$ git clone https://github.com/maccubkun/igmvb
 
 $ cd igmvb
 
